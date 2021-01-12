@@ -1,4 +1,4 @@
-### Bzbz Hello 👋hotsex1234
+### Bzbz Hello 👋
 
 <!--
 **robi0t/robi0t** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
