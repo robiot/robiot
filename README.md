@@ -5,4 +5,5 @@
 </p>
 <p align="center">
   <img src="https://komarev.com/ghpvc/?username=robiot&label=Profile%20views&color=4f94ef" alt="robiot" />
+  <img src="https://wakatime.com/badge/user/d241717b-7fd6-4e8b-b46b-4635ea8efbd9.svg" />
 </p>
