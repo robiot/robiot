@@ -1,9 +1,6 @@
 <!-- A little easter egg hehe -->
 <p align="center">
-  <picture>
-    <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/robiot/robiot/main/jump.gif">
-    <img alt="Imagine using light mode" src="https://user-images.githubusercontent.com/68228472/169702457-d217b78f-305c-44f6-8386-1a278b4e53e5.png">
-  </picture>
+<img src="https://raw.githubusercontent.com/robiot/robiot/main/jump.gif" />
 </p>
 
 <p align="center">
