@@ -1,5 +1,9 @@
 # Heyy 哈喽!
 ### I'm Elliot, a 17 year old builder on earth
+
+My goal is to maximize the positive impact I have on the world to help people and take humanity to a new age of prosperity and abundance.
+<!-- test !-->
+
 - 👾 I do engineering in Frontend, Backend, Ethereum and more!
 - 👀 Currently learning about startups and game engines.
 - 🌌 I have a passion for airplanes, space, ethereum.
