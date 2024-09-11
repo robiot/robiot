@@ -1,7 +1,7 @@
 # Heyy 哈喽!
 ### I'm Elliot, a 17 year old builder on earth
 
-My goal is to maximize the positive impact I have on the world to help people and take humanity to a new age.
+My goal is to bring the future closer through contributing to innovate ideas.
 <!-- test !-->
 
 - 👾 I do engineering in Frontend, Backend, Ethereum and more!
