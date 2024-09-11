@@ -6,5 +6,5 @@
 - ⚫ Intern @ [Winter](https://winter.ax) Previously @ [ENS](https://ens.domains)
 - 📫 How to reach me: [Twitter](https://twitter.com/robiotz), [Discord](https://discord.gg/3Pf8Xu5Kjm)
 
-# 
+
 ps. I love rust
