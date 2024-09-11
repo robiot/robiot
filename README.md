@@ -11,4 +11,4 @@ My goal is to bring the future closer through contributing to innovate ideas.
 - 📫 How to reach me: [Twitter](https://twitter.com/robiotz), [Discord](https://discord.gg/3Pf8Xu5Kjm)
 
 
-ps. I love rust
+ps. I love rust and typescript :D
