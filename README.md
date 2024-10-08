@@ -10,5 +10,7 @@ My goal is to bring the future closer through contributing to innovate ideas.
 - ⚫ Intern @ [Winter](https://winter.ax), Previously @ [ENS](https://ens.domains), won at various hackathons.
 - 📫 How to reach me: [Twitter](https://twitter.com/robiotz), [Discord](https://discord.gg/3Pf8Xu5Kjm)
 
+<img src="https://raw.githubusercontent.com/robiot/robiot/main/jump.gif" />
 
 ps. I love rust and typescript :D
+
