@@ -1,4 +1,4 @@
-# Heyy 哈喽!
+# Heyy 哈喽! よ
 ### I'm Elliot aka Robiot, a 17 year old builder on earth
 
 My goal is to bring the future closer through contributing to innovate ideas.
