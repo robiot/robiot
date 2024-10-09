@@ -1,6 +1,5 @@
 # Heyy 哈喽! よ
 
-<img src="https://raw.githubusercontent.com/robiot/robiot/main/jump.gif" />
 
 ### I'm Elliot aka Robiot, a 17 year old builder on earth
 
