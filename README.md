@@ -10,7 +10,7 @@ My goal is to bring the future closer through contributing to innovate ideas.
 - 👀 Currently learning about startups and game engines.
 - 🌌 I have a passion for airplanes, space, piano, blockchain.
 - ⚫ Intern @ [Winter](https://winter.ax), Previously @ [ENS](https://ens.domains), won at various hackathons.
-- 📫 How to reach me: [Twitter](https://twitter.com/robiotz), [Discord](https://discord.gg/3Pf8Xu5Kjm)
+- 📫 How to reach me: [Twitter](https://twitter.com/robiot), [Discord](https://discord.gg/3Pf8Xu5Kjm)
 
 
 ps. I love rust and typescript :D
