@@ -1,14 +1,19 @@
 # Heyy 哈喽! よ
+> [!NOTE]  
+> I'm open to work, HMU if your company is building something awesome.
 
-### 我是 Elliot，又名 Robiot，一个 17 岁的地球建造者。
 
-我的目标是通过贡献创新理念让未来更近一步。
+### I'm Elliot aka Robiot, a 17 year old builder on earth.
+
+My goal is to bring the future closer through contributing to innovate ideas.
 <!-- test !-->
 
-- 👾 我从事前端、后端、以太坊等工程！
-- 👀 目前正在学习创业公司、中文和日语。
-- 🌌 我对飞机、太空、钢琴、区块链充满热情。
-- ⚫ 之前在 [ENS](https://ens.domains) 工作，在 [Winter](https://winter.ax) 实习，在各种黑客马拉松中获胜。
-- 📫 如何联系我：[Twitter](https://twitter.com/robiot)、[Discord](https://discord.gg/3Pf8Xu5Kjm)
+- 👾 I do engineering in Frontend, Backend, Ethereum and more!
+- 👀 Currently learning about startups, chinese and japanese.
+- 🌌 I have a passion for airplanes, space, piano, blockchain.
+- ⚫ Previously @ [ENS](https://ens.domains), Intern @ [Winter](https://winter.ax), won at various hackathons.
+- 📫 How to reach me: [Twitter](https://twitter.com/robiot), [Discord](https://discord.gg/3Pf8Xu5Kjm)
 
-ps. 我喜欢 rust 和 typescript :D
+
+ps. I love rust and typescript :D
+
