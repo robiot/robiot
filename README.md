@@ -16,4 +16,3 @@ My goal is to bring the future closer through contributing to innovate ideas.
 
 
 ps. I love rust and typescript :D
-
