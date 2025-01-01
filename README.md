@@ -1,7 +1,4 @@
 # Heyy 哈喽! よ
-> [!NOTE]  
-> I'm open to work, HMU if your company is building something awesome.
-
 
 ### I'm Elliot aka Robiot, a 17 year old builder on earth.
 
