@@ -1,11 +1,17 @@
-# Heyy 哈喽!
+# Hey 哈喽!
 
 ### I'm Elliot Lindberg, a 17 year old builder.
 
-My goal is to bring the future closer through contributing to innovate ideas.
+let's bring the future closer.
 
-- 👾 I do engineering in Frontend, Backend, AI, Ethereum and more!
-- 👀 Currently learning about startups & chinese 
-- 🌌 I have a passion for airplanes, space, piano, blockchain.
-- ⚫ Currently @ [Lovable](https://lovable.dev), Previously @ [ENS](https://ens.domains), Intern @ [Winter](https://winter.ax), won at various hackathons.
-- 📫 How to reach me: [Twitter](https://twitter.com/robiot), [Discord](https://discord.gg/3Pf8Xu5Kjm)
+summary
+- Created my first invention at 8 y/o
+- Made snapchat filters with 14 million views at 12 y/o
+- Made software with 280k+ users at 14
+- Traveled alone across europe to conferances since 15
+- Created a freelancing company at 15
+- Finished all high school programming classes in 3 weeks instead of 3 years at 16
+- Created two micro startups at 16
+- currently studying chinese.
+
+now at Lovable as a 17 y/o
