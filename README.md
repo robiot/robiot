@@ -1,6 +1,4 @@
-# Hey 哈喽!
-
-### I'm Elliot Lindberg, a 17 year old builder.
+# Elliot Lindberg
 
 summary
 - Created my first invention at 8 y/o
