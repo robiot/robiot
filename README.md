@@ -11,6 +11,5 @@ summary
 - Finished all high school programming classes in 3 weeks instead of 3 years at 16
 - Created two micro startups at 16
 - Studying chinese since 16
-- currently studying chinese.
 
 now at Lovable as a 17 y/o
