@@ -1,4 +1,4 @@
-# Elliot Lindberg
+# Elliot Lindberg.
 
 [website](https://elliotl.co)
 
