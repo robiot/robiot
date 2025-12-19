@@ -1,5 +1,5 @@
 # Elliot Lindberg.
 
-[website](https://elliotl.co)
+[website](https://elliotlindberg.com)
 
 [twitter](https://x.com/robiot)
