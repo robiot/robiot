@@ -1,4 +1,4 @@
-# Elliot Lindberg.
+# Elliot Lindberg
 
 @robiot
 
